@@ -57,7 +57,7 @@ The game challenges players to score high while maintaining smooth gameplay and 
 
 ## 📹 Demo
 
-[VIdeo Guide](https://drive.google.com/file/d/1srIeyJ_bj1ZfIBL3ktU8W9wfdFXYqnNi/view?usp=sharing)
+[Video Guide](https://drive.google.com/file/d/1srIeyJ_bj1ZfIBL3ktU8W9wfdFXYqnNi/view?usp=sharing)
 
 ---
 
