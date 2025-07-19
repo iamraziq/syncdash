@@ -33,7 +33,7 @@ The game challenges players to score high while maintaining smooth gameplay and 
 * **Interpolation and smoothing** to mimic real-time sync accurately.
 * Uses a **queue-based state buffer** to simulate multiplayer state syncing.
 
-### 💥 Shaders & Visual Effects (Mandatory Bonus Features)
+### 💥 Shaders & Visual Effects
 
 * **Glowing Shader**: Applied to the main cube for a stylized look.
 * **Dissolve Shader**: Obstacles dissolve when hit.
@@ -57,7 +57,7 @@ The game challenges players to score high while maintaining smooth gameplay and 
 
 ## 📹 Demo
 
-[https://drive.google.com/file/d/1srIeyJ\_bj1ZfIBL3ktU8W9wfdFXYqnNi/view?usp=sharing](https://drive.google.com/file/d/1srIeyJ_bj1ZfIBL3ktU8W9wfdFXYqnNi/view?usp=sharing)
+[VIdeo Guide](https://drive.google.com/file/d/1srIeyJ_bj1ZfIBL3ktU8W9wfdFXYqnNi/view?usp=sharing)
 
 ---
 
@@ -65,7 +65,7 @@ The game challenges players to score high while maintaining smooth gameplay and 
 
 * Platform: Android (.apk)
 * Unity Version: **2022.3+** (LTS Recommended)
-* Download APK:  [https://drive.google.com/file/d/1HVGFyAlhlTrTDPIK2WmzRS5RepIxawbY/view?usp=sharing](https://drive.google.com/file/d/1HVGFyAlhlTrTDPIK2WmzRS5RepIxawbY/view?usp=sharing)&#x20;
+* Download APK:  [SyncDash](https://drive.google.com/file/d/1HVGFyAlhlTrTDPIK2WmzRS5RepIxawbY/view?usp=sharing)&#x20;
 
 ---
 
