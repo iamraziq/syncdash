@@ -1,0 +1,1138 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.50f1 (c3db7f8bf9b1) revision 12835711'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 16204 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.50f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+E:/Unity/AssignmentProject
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+55781
+Successfully changed project path to: E:/Unity/AssignmentProject
+E:/Unity/AssignmentProject
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [7300]  Target information:
+
+Player connection [7300]  * "[IP] 10.59.56.104 [Port] 0 [Flags] 2 [Guid] 3615518256 [EditorId] 3615518256 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9HO8LNC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [7300] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [7300] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Refreshing native plugins compatible for Editor in 1880.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.50f1 (c3db7f8bf9b1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity/AssignmentProject/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   NVIDIA
+    VRAM:     5966 MB
+    Driver:   32.0.15.7283
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56756
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.50f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.50f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.50f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.597503 seconds.
+- Loaded All Assemblies, in  8.780 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 451 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.963 seconds
+Domain Reload Profiling: 9741ms
+	BeginReloadAssembly (6055ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (486ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (656ms)
+	LoadAllAssembliesAndSetupDomain (1570ms)
+		LoadAssemblies (6054ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1565ms)
+			TypeCache.Refresh (1564ms)
+				TypeCache.ScanAssembly (1201ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (963ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (908ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (687ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (160ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 14.480 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.559 seconds
+Domain Reload Profiling: 16037ms
+	BeginReloadAssembly (323ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (62ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (81ms)
+	LoadAllAssembliesAndSetupDomain (13987ms)
+		LoadAssemblies (12823ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1332ms)
+			TypeCache.Refresh (1264ms)
+				TypeCache.ScanAssembly (1157ms)
+			ScanForSourceGeneratedMonoScriptInfo (42ms)
+			ResolveRequiredComponents (22ms)
+	FinalizeReload (1560ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1257ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (35ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (222ms)
+			ProcessInitializeOnLoadAttributes (863ms)
+			ProcessInitializeOnLoadMethodAttributes (115ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 6.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5015 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 36 unused Assets / (2.3 MB). Loaded Objects now: 5468.
+Memory consumption went from 216.1 MB to 213.7 MB.
+Total: 8.327800 ms (FindLiveObjects: 0.688700 ms CreateObjectMapping: 0.915900 ms MarkObjects: 5.968900 ms  DeleteObjects: 0.752700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 3ead1caaecf1c488f20bcfeb224b6af5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.138 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.518 seconds
+Domain Reload Profiling: 3653ms
+	BeginReloadAssembly (417ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (20ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (187ms)
+	RebuildCommonClasses (62ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (593ms)
+		LoadAssemblies (589ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (149ms)
+			TypeCache.Refresh (102ms)
+				TypeCache.ScanAssembly (82ms)
+			ScanForSourceGeneratedMonoScriptInfo (29ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (2518ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (858ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (38ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (186ms)
+			ProcessInitializeOnLoadAttributes (542ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (23ms)
+Refreshing native plugins compatible for Editor in 6.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5405 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 43 unused Assets / (4.2 MB). Loaded Objects now: 6045.
+Memory consumption went from 198.4 MB to 194.2 MB.
+Total: 17.498100 ms (FindLiveObjects: 0.879600 ms CreateObjectMapping: 1.026900 ms MarkObjects: 13.970000 ms  DeleteObjects: 1.619700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/VFXConeGizmos.cs: 27632fc3ee56cf915db2d5c062dfbb9f -> 
+  custom:scripting/monoscript/fileName/DotAttribute.cs: abf7d127501c97c8f02b6972e67e0063 -> 
+  custom:scripting/monoscript/fileName/SquareWave.cs: 41fb68b80c5dfde0cc845bbfd43efefa -> 
+  custom:scripting/monoscript/fileName/VFXAssetEditorUtility.cs: c44a0ff8308915fe6da0a3d529eaa1e5 -> 
+  custom:scripting/monoscript/fileName/TransformMatrix.cs: 7677c5c76b628b65753c5d493c9be885 -> 
+  custom:scripting/monoscript/fileName/PositionCircle.cs: 5f538e8c7d7072ff9f79ed9b21e5c542 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionStrips.cs: 7aaf7a5bdccdf7f8ab4d7c3a40c527d5 -> 
+  custom:scripting/monoscript/fileName/Normalize.cs: 9f4ae7457fca8ce8ee0e9c8860157631 -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/InverseLerp.cs: f67ee36c93dadaf05f12d894dcea24cb -> 
+  custom:scripting/monoscript/fileName/PerParticleTotalTime.cs: a6ff275cf83a3d7f8d474c3da098a13a -> 
+  custom:scripting/monoscript/fileName/VFXParameter.cs: 3f700bf6e3f758e3d27b8b731612e489 -> 
+  custom:scripting/monoscript/fileName/VFXSpawnerBurst.cs: 14d2b1581b8c44bcc599a353273a92df -> 
+  custom:scripting/monoscript/fileName/VFXHelpDropdownButton.cs: 45b6f70bdf3007eb8c4aebbcb68245ef -> 
+  custom:scripting/monoscript/fileName/Add.cs: e96e81e72bbdce46fc88bbb9617d9c90 -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/VelocityDirection.cs: 39146ff217040ad4707a863a2ab015a6 -> 
+  custom:scripting/monoscript/fileName/VFXSpawnerConstantRate.cs: ef5762b44b341a0bdb30991aa8c6f11c -> 
+  custom:scripting/monoscript/fileName/TransposeMatrix.cs: 164e7da6d6c1f3346f961e16caf187b1 -> 
+  custom:scripting/monoscript/fileName/VectorFieldImporterEditor.cs: ee40381b61d2eacc26efd1515adee2dd -> 
+  custom:scripting/monoscript/fileName/VFXSerializer.cs: ff256370a8fd3e4eca000979cb63b48c -> 
+  custom:scripting/monoscript/fileName/Divide.cs: faa1ce104c8b7c1c30cf47427f35dc0e -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/Noise.cs: ba618644a2749c1d09273021b424319d -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/VFXReorderableList.cs: f22b7623ec35f81e06d938242c982de7 -> 
+  custom:scripting/monoscript/fileName/VFXMultiOperatorEdit.cs: 5aa96dc23a145b3cc9d6744a9723d847 -> 
+  custom:scripting/monoscript/fileName/Epsilon.cs: 3b07bbd6581ce310e367915175d3740e -> 
+  custom:scripting/precompiled-assembly-types:Unity.VisualEffectGraph.Editor: ae3aa54baa2ab3f69a4268ba889fe396 -> 
+  custom:scripting/monoscript/fileName/VFXAbstractOperatorNew.cs: b68ca2140f3cb8959f0cf69ab4321101 -> 
+  custom:scripting/monoscript/fileName/VFXDataEdgeController.cs: 85e2bb8469e9c855db68e2a03ee737d8 -> 
+  custom:scripting/monoscript/fileName/CameraFade.cs: feb64cbfbb9e8033dad0c16336ddd6ca -> 
+  custom:scripting/monoscript/fileName/VelocityBase.cs: 97a906f72205b01c914f9df7d15ddee9 -> 
+  custom:scripting/monoscript/fileName/VFXContextBorder.cs: 05f2d805fc92c24c258f3d8afe3c8a83 -> 
+  custom:scripting/monoscript/fileName/VFXConvertSubgraph.cs: 713d3bd23111571aa1eb547564c1e623 -> 
+  custom:scripting/monoscript/fileName/VFXCompileDropdownButton.cs: ede5f86d3c5431cfd0edaa0255fe6cf5 -> 
+  custom:scripting/monoscript/fileName/VFXUI.cs: 2e8186058150928bfc607c7e7f2d9ad0 -> 
+  custom:scripting/monoscript/fileName/VFXSubTarget.cs: c259e2b263e44f8ba8d14c929d772b6a -> 
+  custom:scripting/monoscript/fileName/SuperCollapser.cs: 9e7248762489c80aa5ae89bdc58d6e5b -> 
+  custom:scripting/monoscript/fileName/DistanceToLine.cs: d7307d9bb1ff71a7961a35ff6fe06d77 -> 
+  custom:scripting/monoscript/fileName/VFXShaderWriter.cs: 89243e8cfddf5ce0e188fee1822a2d62 -> 
+  custom:scripting/monoscript/fileName/VFXMinMaxSliderField.cs: 45f4c92d31ef1f2941cc0d30f7355416 -> 
+  custom:scripting/monoscript/fileName/VFXBasicCubeOutput.cs: 2fcfa04a04ef34ce067adf031558b1a0 -> 
+  custom:scripting/monoscript/fileName/VFXShaderGraphGUI.cs: acf967b27dc43f01d9a28ce38e19d55e -> 
+  custom:scripting/monoscript/fileName/VFXDataMesh.cs: 03978e8152377a418cb87694590fad18 -> 
+  custom:scripting/monoscript/fileName/Maximum.cs: b74e2a358e1e53b8cecdb24c1fa3f731 -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/IVFXSubRenderer.cs: 9c8fd422f74bd450442695ff002b314f -> 
+  custom:scripting/monoscript/fileName/VFXSlotTexture2D.cs: 109bd8f54904096e897023f2b8069e1f -> 
+  custom:scripting/monoscript/fileName/Modulo.cs: 3ab57aafd018be522f8b9238b754df76 -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/Asin.cs: 5ac9a14effd132665acc3c0048ba0fdf -> 
+  custom:scripting/monoscript/fileName/Distance.cs: 9c68c250150ab5ae0c0eb80ed2e1f32c -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/VFXBitField.cs: f1f9270506f50721ad4e41b2e876baad -> 
+  custom:scripting/monoscript/fileName/VFXPaste.cs: 2fe8f25d9f85467309afe7a7c62cf63f -> 
+  custom:scripting/monoscript/fileName/TransformPosition.cs: aa03f34356be07ed42ee97301380a916 -> 
+  custom:scripting/monoscript/fileName/VFXConverter.cs: be9f732ae4a1026429fef65f9ddc0f44 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionLoadTexture.cs: 4c5baa1be441c00d6ccf93d8e62a189f -> 
+  custom:scripting/monoscript/fileName/RGBtoHSV.cs: 5ea08bc98c3bf7262060156a794a939f -> 
+  custom:scripting/monoscript/fileName/VFXExpressionRandom.cs: 35ffec3ce66de3a34c49cc25c00bcde1 -> 
+  custom:scripting/monoscript/fileName/SdfBakerPreview.cs: bf322d8f8e2b9937d16141aee85eea77 -> 
+  custom:scripting/monoscript/fileName/Pi.cs: e834cda5a497cbd5934f76cb76ef6c99 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/Atan2.cs: 84ec5995617c79964b4ed9f28a918c8d -> 
+  custom:scripting/monoscript/fileName/VFXCopy.cs: 29ed7a450c7b199d9e4e1cdf2724cc78 -> 
+  custom:scripting/monoscript/fileName/VisualEffectControlClipInspector.cs: 050a6ac33a573162e5b5d94cc79b6f43 -> 
+  custom:scripting/monoscript/fileName/DotProduct.cs: 13924c0610eb384eef5a8f34a6dae870 -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/Sign.cs: d838676b802eef24bc58b76345a943f9 -> 
+  custom:scripting/monoscript/fileName/PointCacheImporter.cs: 869e1d253f71a14c5dbf85822ca32c00 -> 
+  custom:scripting/monoscript/fileName/DistanceToSphere.cs: 5ae3e2587ac57e7f56da688cc63e7d6a -> 
+  custom:scripting/monoscript/fileName/VFXOperatorUtility.cs: 779b0dfc9d034bb2104f7223898b92b4 -> 
+  custom:scripting/monoscript/fileName/PackageInfo.cs: 9e743ad335a36b313916f2d56272597a -> 
+  custom:scripting/monoscript/fileName/VFXExpressionGraph.cs: 058f7914cb3b4bfc84ef9b0f39c1b63e -> 
+  custom:scripting/monoscript/fileName/VFXBinderAttribute.cs: 2c30a23f1aa8930d32fc47a01546231d -> 
+  custom:scripting/monoscript/fileName/VFXQuadStripOutput.cs: fac9509b4b0118b3dcb925d5526f029b -> 
+  custom:scripting/monoscript/fileName/VFXVisibilityEventBinder.cs: 80597722c9b5aa37c9f4b9a50fb6d8ca -> 
+  custom:scripting/monoscript/fileName/VFXLightBinder.cs: e8a85a194edcc801bcf6ced9219bf573 -> 
+  custom:scripting/monoscript/fileName/VFXCurrentAttributeParameter.cs: 88508be3622f8e488b2890ef3912686c -> 
+  custom:scripting/monoscript/fileName/VFXGizmo.cs: 7263c36b150645055a90f67b60d0930c -> 
+  custom:scripting/monoscript/fileName/DropDownButtonBase.cs: 742d18e9532fa1a332ee4867d6bbccd9 -> 
+  custom:scripting/monoscript/fileName/NoiseBaseOld.cs: d1ed42254cad1848221435eb342ad0db -> 
+  custom:scripting/monoscript/fileName/PointCacheBakeTool.Mesh.cs: 0d7aaa4cc7c4df1706d6fc67ab2b19e5 -> 
+  custom:scripting/monoscript/fileName/VFXShaderGraphParticleOutput.cs: a95c55ee60829d70e804853158508ff7 -> 
+  custom:scripting/monoscript/fileName/ProbabilitySampling.cs: 684ff33e5c740d33707a5d117746aee8 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/VFXMouseEventBinder.cs: 1f5af63bde673275809174a3bc72c0f7 -> 
+  custom:scripting/monoscript/fileName/VFXSaveDropdownButton.cs: 331c9b0e492449c0b57067f38b9e1104 -> 
+  custom:scripting/monoscript/fileName/VFXBlackboardField.cs: 1523c61cfd8d3d47738ad6e815288df3 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionCamera.cs: e66599ad78c5e19a187f461496d64185 -> 
+  custom:scripting/monoscript/fileName/VFXSlotMesh.cs: a0a8e46a8f5deb35e23df2f100e3a7d0 -> 
+  custom:scripting/monoscript/fileName/VFXPointOutput.cs: 0ac50540e52b0501a9660a27414aad3a -> 
+  custom:scripting/monoscript/fileName/VFXLibrary.cs: 7f949f07cd5520f14b0993cb530d7127 -> 
+  custom:scripting/monoscript/fileName/VFXGroupNodeController.cs: 819ca663ecd08c97987a72eef0532fef -> 
+  custom:scripting/monoscript/fileName/DistanceToPlane.cs: ccd6a46982b1d88b29b1411f9c993b86 -> 
+  custom:scripting/monoscript/fileName/SampleTexture2D.cs: 281f0fbacf68ec8d41dc11ac3385c200 -> 
+  custom:scripting/monoscript/fileName/SquaredDistance.cs: c620f4fd2e4856cd0a466ae2b7fa2d44 -> 
+  custom:scripting/monoscript/fileName/Floor.cs: d777b46619ff4be279dc436e81992a70 -> 
+  custom:scripting/monoscript/fileName/VFXDebugWindow.cs: fd6033e51a087983b9f04e07174e5e1a -> 
+  custom:scripting/monoscript/fileName/CrossProductDeprecated.cs: c165e923bb58fbc9cd238a36685c3736 -> 
+  custom:scripting/monoscript/fileName/VectorFieldImporter.cs: 186e872e8f7b2b2444048c17b83931dc -> 
+  custom:scripting/monoscript/fileName/TriangleWave.cs: a80197db2fe354c86a1206887df52423 -> 
+  custom:scripting/monoscript/fileName/Multiply.cs: 5da6c142afde9cc62e9d34d4185dd442 -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/VFXExpressionBakeCurve.cs: 0b3c3858f8266da0b1033b4cf2d32714 -> 
+  custom:scripting/monoscript/fileName/VisualEffectActivationTrackMigration.cs: d606786fd8a80baf5ee18b1dab7bdda2 -> 
+  custom:scripting/monoscript/fileName/CircleAreaDeprecated.cs: 220f192769f85d936aedd0e585366804 -> 
+  custom:scripting/monoscript/fileName/ConeVolumeDeprecated.cs: b936d8a4377cb225b097e4e754706269 -> 
+  custom:scripting/monoscript/fileName/Reap.cs: 445ec5cfcd60a54f5a2e081d8f1740a7 -> 
+  custom:scripting/monoscript/fileName/VFXSlotObject.cs: 2282812aba9c8662be6f6ccf35254024 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionColor.cs: 5733e69bdceb4d3a863675a7885fadec -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/VFXPlaneGizmos.cs: 4602cac9b2ff5da5ebd5850d5c0c3e0c -> 
+  custom:scripting/monoscript/fileName/LoopAndDelay.cs: ecc53c414c30dff9449c43ccdfeecdd4 -> 
+  custom:scripting/monoscript/fileName/VFXSlotFloat4.cs: 964489fb93136756a3cc656aeb025b8d -> 
+  custom:scripting/monoscript/fileName/PointCacheAsset.cs: 1859beb133dd7ee2296e9ecd598c7276 -> 
+  custom:scripting/monoscript/fileName/KillSphere.cs: 8a30799c0f0dac04f0fe26ec207cb757 -> 
+  custom:scripting/monoscript/fileName/VelocitySpherical.cs: 92ec62db49899c991151ad6e40dcb66c -> 
+  custom:scripting/monoscript/fileName/VFXExpressionMath.cs: f5a4eb36e4c61354993deb90b48c0d34 -> 
+  custom:scripting/monoscript/fileName/ViewportToWorldPoint.cs: 40b50c22aaee476e53e40551ef441643 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionSampleTextureCubeArray.cs: 7731852f759530f1cb55053c66ebc9d5 -> 
+  custom:scripting/monoscript/fileName/VFXSlotSphere.cs: 546c93bedb415bd26088a85287b39edc -> 
+  custom:scripting/monoscript/fileName/VFXPlanarPrimitiveOutput.cs: 97f6bbaf731aae84148b53e285879135 -> 
+  custom:scripting/monoscript/fileName/VFXInputAxisBinder.cs: 33edd74c02095a0c8e05e1c5c84e8408 -> 
+  custom:scripting/monoscript/fileName/ConnectTarget.cs: 1195cf599c9f9ca995ee5288ae9c1ec8 -> 
+  custom:scripting/monoscript/fileName/PositionTorus.cs: 699928f0405fd9ad2907c12ad3fdb8a8 -> 
+  custom:scripting/monoscript/fileName/BitwiseOr.cs: 20d3ab733c28f89af4a6791b100c4273 -> 
+  custom:scripting/monoscript/fileName/MeshVertexCount.cs: 61340084575fe2e7ce35b99d7dcad4f0 -> 
+  custom:scripting/monoscript/fileName/VFXResources.cs: adcf2174ee17580f447f9fadd8c63992 -> 
+  custom:scripting/monoscript/fileName/SineWave.cs: f52b03dfb6ede2881a57d19e67911f96 -> 
+  custom:scripting/monoscript/fileName/VFXNodeController.cs: 7926d8ba385a86f209a94f70664ae1c0 -> 
+  custom:scripting/monoscript/fileName/CurlNoise.cs: 6cf07b72703c913d1dcf0c51c840c0a9 -> 
+  custom:scripting/monoscript/fileName/VFXOperator.cs: 5d059e59f33b63404eae317d70a7ed85 -> 
+  custom:scripting/monoscript/fileName/VFXEventBinderBase.cs: 1bf722465640ae76e81773517d911569 -> 
+  custom:scripting/monoscript/fileName/NoiseBase.cs: 24d691728eb3d4ba9fc9ef1aec59f972 -> 
+  custom:scripting/monoscript/fileName/VFXLabeledField.cs: a883b34304c6930f319aed6970108182 -> 
+  custom:scripting/monoscript/fileName/VFXBlackboardPropertyView.cs: 687827ec0ae13d87505bf0e2ebd98406 -> 
+  custom:scripting/monoscript/fileName/VFXBoxGizmos.cs: 90a39a96592a04beb4f98516490cb3aa -> 
+  custom:scripting/monoscript/fileName/VFXBlockEditor.cs: 6849cd487ce7f5eb591f0206d273ad33 -> 
+  custom:scripting/monoscript/fileName/PropertyRM.cs: e358b8e972965b712ea625ef9b5f88dd -> 
+  custom:scripting/monoscript/fileName/CircleArea.cs: 81d803543bf5b909ddb9eaaa8c22cc9b -> 
+  custom:scripting/monoscript/fileName/Branch.cs: 6fe7d63bbf07abc56dadf7455af9246c -> 
+  custom:scripting/monoscript/fileName/SetAttribute.cs: 7aa9439754bcae636ee780a2e2e21981 -> 
+  custom:scripting/monoscript/fileName/VFXOutputEventAbstractHandler.cs: 0f7984d8552e1a89808fafe58cd8fe99 -> 
+  custom:scripting/monoscript/fileName/Condition.cs: 2b8111c98db779925309298f948a0898 -> 
+  custom:scripting/monoscript/fileName/SampleBezier.cs: 740ff7c754bae4d9eebf782778bbf15b -> 
+  custom:scripting/monoscript/fileName/Negate.cs: fe9dd15836bb84e26c399d72be936335 -> 732682fdbfc8d9a4d8fe571ef19f7a04
+  custom:scripting/monoscript/fileName/VisualEffectEditor.cs: c33a3d6f37bb982e2391f18a17819470 -> 
+  custom:scripting/monoscript/fileName/Atan.cs: c4a1a0ef8836013cc6c8d365928909ff -> 
+  custom:scripting/monoscript/fileName/SampleIndex.cs: 5b15af0e02ae5549c9154bacddce8d05 -> 
+  custom:scripting/monoscript/fileName/Swizzle.cs: 7cd2f210d7a1dceec75549e6e5e418bd -> 
+  custom:scripting/monoscript/fileName/VFXVector2Field.cs: c4b592cfebc706fb37511689d83b929e -> 
+  custom:scripting/monoscript/fileName/VFXEnumValuePopup.cs: 11ec068465d1011b9c8221c368fcf9f3 -> 
+  custom:scripting/monoscript/fileName/VFXVelocityBinder.cs: c8a4867b12adc043b2b5b2c0026b0637 -> 
+  custom:scripting/monoscript/fileName/VFXDataParticle.cs: a694962c30ca964fbd4723d08cd23c9d -> 
+  custom:scripting/monoscript/fileName/VFXSphereGizmos.cs: 934266dacc13d1cc0e1de0a927d0f49e -> 
+  custom:scripting/monoscript/fileName/VFXRigidBodyCollisionEventBinder.cs: 9852e9b8b15b8396935110d4974a1d51 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionLoadCameraBuffer.cs: 27a6ccdd67f91d34c88cc9439046d059 -> 
+  custom:scripting/monoscript/fileName/VFXParameterEditor.cs: 66fe67a0b77c3fede1cf7e8372af13c4 -> 
+  custom:scripting/monoscript/fileName/VFXBlockSubgraphContext.cs: 2f9fea390cbc59a143fe9d79c565f3fd -> 
+  custom:scripting/monoscript/fileName/VFXUIDebug.cs: 170ce32dc4cf879479f4b620d682f75f -> 
+  custom:scripting/monoscript/fileName/PositionCone.cs: fda6d59239cfb00b597996e936d73113 -> 
+  custom:scripting/monoscript/fileName/VFXBlockController.cs: 57a139739e9b5e5bb2b342b8bdf5dbc8 -> 
+  custom:scripting/monoscript/fileName/VFXFlowAnchorController.cs: 2cf34b7998fd7d26f3dad5c35ec29b0f -> 
+  custom:scripting/monoscript/fileName/Length.cs: 37f2929aa57ace867829bf4004a2a293 -> 
+  custom:scripting/monoscript/fileName/AngularEulerIntegration.cs: aee49a480247cc8e1c3f6132e8260cbd -> 
+  custom:scripting/monoscript/fileName/VFXTorusGizmos.cs: 7b153ae460c2e22416c8e1433f38db79 -> 
+  custom:scripting/monoscript/fileName/PositionSphereDeprecated.cs: f2808ce428e58b23321decf12cb0730a -> 
+  custom:scripting/monoscript/fileName/VFXNodeUI.cs: aed64332ddcad68fff6d62c6cbd2974b -> 
+  custom:scripting/monoscript/fileName/OneMinus.cs: f544bf2533891d1450e8a455b3a2f8dd -> 
+  custom:scripting/monoscript/fileName/Orient.cs: 3550551d6cd4ccdec61e71fafbe1a225 -> 
+  custom:scripting/monoscript/fileName/SampleTextureCube.cs: c81fcb1dd82410c445b3b9308c3e9937 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionExtractComponent.cs: c9759e9296c1a70a3b632cf1b3609d68 -> 
+  custom:scripting/monoscript/fileName/VFXControl.cs: fb35f886d5adb1c348025b053c342b07 -> 
+  custom:scripting/monoscript/fileName/SquaredLength.cs: 48348f04ed2d9d754115e44aa93eee8e -> 
+  custom:scripting/monoscript/fileName/VFXErrorManager.cs: 77f833d31c0290a5ea37ea73a5f16617 -> 
+  custom:CustomObjectIndexerAttribute: 3ead1caaecf1c488f20bcfeb224b6af5 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionBuffer.cs: 841ddae9f3b9e8f69f507d5308474c31 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionAbstractNumericOperation.cs: d4a49e5de37a8a31e16e11e0d48414f6 -> 
+  custom:scripting/monoscript/fileName/VFXSlotPosition.cs: 0cf325028c59a3aa765bfd8400c5c8c5 -> 
+  custom:scripting/monoscript/fileName/VFXParameterEnumValuePropertyRM.cs: 5a277f3040d25c631e12577cda2b762e -> 
+  custom:scripting/monoscript/fileName/VFXExpressionSampleGradient.cs: adad539a84aff288455cac074d522756 -> 
+  custom:scripting/monoscript/fileName/VFXSpawnerPeriodicBurst.cs: b01208ff5abc1c77dae2ef74c480d76b -> 
+  custom:scripting/monoscript/fileName/PointCacheBakeTool.cs: 64f62855ab7c1eba2de3e870b35a46d4 -> 
+  custom:scripting/monoscript/fileName/VFXView.cs: 16047517a4dba37046c5242a9e48e85c -> 
+  custom:scripting/monoscript/fileName/VFXOperatorAnchorController.cs: fe6506ee3bfdef1336093f8e279a564e -> 
+  custom:scripting/monoscript/fileName/VFXInputKeyBinder.cs: 61d5b7075e9af0e6bf1e1d02f89c364b -> 
+  custom:scripting/monoscript/fileName/SampleCameraBuffer.cs: 579df3aa4c317e3981091dbc396602da -> 
+  custom:scripting/monoscript/fileName/ConformToSphere.cs: a1ef781dff8f53a4154ba34c0857c498 -> 
+  custom:scripting/monoscript/fileName/VFXSubgraphOperator.cs: 99c3697fc259a332ed66eda8b16598d5 -> 
+  custom:scripting/monoscript/fileName/Discretize.cs: 020d998dd9e8b669da4fc636683fd46b -> 
+  custom:scripting/monoscript/fileName/VFXCircleGizmos.cs: 11d4031561c3e1183899750803a8344b -> 
+  custom:scripting/monoscript/fileName/VFXSlotOrientedBox.cs: 5146fdd03d97137c28ba0ffc4762d8f4 -> 
+  custom:scripting/monoscript/fileName/VFXTypeDefinition.cs: ee9b015b56fa880059d28ad85708f3b9 -> 
+  custom:scripting/monoscript/fileName/PositionSphere.cs: bb715ed4d865d760d683f62038894144 -> 
+  custom:scripting/monoscript/fileName/PositionMesh.cs: b113589b60b47869b5e460b9ee8d1130 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionCast.cs: 0634190aed0b083722591b6b5cace33d -> 
+  custom:scripting/monoscript/fileName/BitwiseAnd.cs: 9863e4a5b58a4fc51fb997e6fc8090b8 -> 
+  custom:scripting/monoscript/fileName/VFXSettingController.cs: 226e864b45526bafdca88b10ff3742c8 -> 
+  custom:scripting/monoscript/fileName/VFXOperatorPointCache.cs: a33f2660548e34b5699a73c2755ebc64 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/VFXOutputEvent.cs: c0277a0fbf49800f2525bf0067e3b2df -> 
+  custom:scripting/monoscript/fileName/VFXEventTesterWindow.cs: 09ee0d1cc6efdc1e2c1c52d1b18b4233 -> 
+  custom:scripting/monoscript/fileName/Absolute.cs: 03ca6f2061efa0facec6fcd730d5d024 -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/VFXSlotContainerModel.cs: 326690141e3fd718f0fd5b575b1c2448 -> 
+  custom:scripting/monoscript/fileName/VFXSlotFlipBook.cs: 6b10b607fb95e3f76b15bc11ef6703f2 -> 
+  custom:scripting/monoscript/fileName/GradientPropertyRM.cs: 574149559f619bc766d6e358a1651aa3 -> 
+  custom:scripting/monoscript/fileName/Exp.cs: 83ee936a46d134f4dbcc7454ebd71fe4 -> 
+  custom:scripting/monoscript/fileName/SpawnState.cs: d7a3d706446eb11fd37b841197aa298f -> 
+  custom:scripting/monoscript/fileName/Rotate3D.cs: b2068392dc853b74aaf83e1aaa765b1f -> 
+  custom:scripting/monoscript/fileName/VFXBlockUI.cs: 4cfe43c9b9ec4ae7fea98d00b62342b2 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionSampleAttributeMap.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/Minimum.cs: f413c78985065baa437ffed7863c156a -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/VFXTerrainBinder.cs: b9c13afaf952ad1118891764752bd393 -> 
+  custom:scripting/monoscript/fileName/AppendVector.cs: 34dc45417c7c00db5c27b5aba4c0d013 -> 
+  custom:scripting/monoscript/fileName/VFXSliderField.cs: 250202546345efdebd6713a473aa0f0b -> 
+  custom:scripting/monoscript/fileName/IRequireVFXContext.cs: 7f16161024800a1cd5ff6dbc58878e85 -> 
+  custom:scripting/monoscript/fileName/VFXElement.cs: f7c88c00b29658d37757674c4b46198e -> 
+  custom:scripting/monoscript/fileName/VFXURPLitPlanarPrimitiveOutput.cs: 605bb410c8f1958a3bcbfaa77edfd040 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionAbstractUintOperation.cs: 043e3b2a6969a31050963883929699eb -> 
+  custom:scripting/monoscript/fileName/VFXDataAnchorController.cs: a3bbfd5ff1a4a7543c01d4b9985d76d4 -> 
+  custom:scripting/monoscript/fileName/VFXMultiMeshHelper.cs: 918b1d95db05d43cbd7088b57fe10c35 -> 
+  custom:scripting/monoscript/fileName/Random.cs: 212f8ec9f1e907c78c3154e466767910 -> 
+  custom:scripting/monoscript/fileName/DotElement.cs: b1cc0d29d288165ab358d23fb4b7785c -> 
+  custom:scripting/monoscript/fileName/VFXFlowEdgeController.cs: bf184f42103a64d8f75b6abb07c0e7e3 -> 
+  custom:scripting/precompiled-assembly-types:Unity.RenderPipelines.Universal.Editor: 202e91697342c2f813e37b323bbb990a -> ab4277de1d1eb8d1263af34387f265ee
+  custom:scripting/monoscript/fileName/SDFBakeTool.cs: 34203cde50451cfe3767990bea9271fe -> 
+  custom:scripting/monoscript/fileName/TransformVector.cs: be88ce8db1da0fdf1c1fcab91ddc0474 -> 
+  custom:scripting/monoscript/fileName/VFXFilterWindow.cs: 86a73bc83aabb5031e5aa6cbc49e5070 -> 
+  custom:scripting/monoscript/fileName/LogicalOr.cs: 29157861aafae133577e83ae9dbdb649 -> 
+  custom:scripting/monoscript/fileName/ValueNoise.cs: 66beb9817ae22d32dcef2729202a406e -> 
+  custom:scripting/monoscript/fileName/TransformVector4.cs: c5440f2414a8b59d6144baa4311aaaf3 -> 
+  custom:scripting/monoscript/fileName/VFXContextController.cs: db798cffbc568fc5e31783a36c0cde9a -> 
+  custom:scripting/monoscript/fileName/Rotate2D.cs: 90b6a5e663deb85bea0e85dc0cc236a9 -> 
+  custom:scripting/monoscript/fileName/CylinderVolumeDeprecated.cs: 2b290dc5ced7ff95e5798f0648c1150e -> 
+  custom:scripting/monoscript/fileName/VFXExpressionTextureDim.cs: df329a00ea45b7e066314159d6970ea5 -> 
+  custom:scripting/monoscript/fileName/RectangularToPolar.cs: a4a349b39dc4f056dfa2969b7f140a47 -> 
+  custom:scripting/monoscript/fileName/SimplexNoise.cs: 2115371aa22d5b5b18b0207df2441ca4 -> 
+  custom:scripting/monoscript/fileName/PositionAABox.cs: b172a08a3d19c71d35b878f8774f6848 -> 
+  custom:scripting/monoscript/fileName/VFXBinderEditor.cs: 80d35c2b69fd133080f061211a87597f -> 
+  custom:scripting/monoscript/fileName/VFXSlotFloat2.cs: d66028727c83050754d5bc9f5717bf34 -> 
+  custom:scripting/monoscript/fileName/VFXBuiltInExpression.cs: d7a2089c61e3c0027aab7a4bb71ae02f -> 
+  custom:scripting/monoscript/fileName/SampleBuffer.cs: 2749c8d50cb6fa64fdfe30f35ebbaed5 -> 
+  custom:scripting/monoscript/fileName/CollisionCylinderDeprecated.cs: 07956b2c2da13bb803e8c32e0a902983 -> 
+  custom:scripting/monoscript/fileName/CameraHelper.cs: c79371d6a29a2c51cbaa9d5a181a611c -> 
+  custom:scripting/monoscript/fileName/KillAABox.cs: e9cd16676f06411ddcadde9758b58a49 -> 
+  custom:scripting/monoscript/fileName/Power.cs: 2aff6f1e8a920955e337b25b3ebfcaa8 -> 
+  custom:scripting/precompiled-assembly-types:Unity.ShaderGraph.Editor: 5183bc4202d9567cafc3fce897199fa5 -> 6cf1bc2e67ba4fbcc7c6028b39cb82ae
+  custom:scripting/monoscript/fileName/SequentialLine.cs: 7f997cd8d46652e8824e866de23179e4 -> 
+  custom:scripting/monoscript/fileName/AttributeMassFromVolume.cs: f8873d35c15734a98061ad9fbd52671b -> 
+  custom:scripting/monoscript/fileName/VFXFlowAnchor.cs: f536e3b3d61ca4389505f1f13d805a78 -> 
+  custom:scripting/monoscript/fileName/VFXSubgraphBlock.cs: 4374e9a6606289549215796fb97b24c6 -> 
+  custom:scripting/monoscript/fileName/ScreenSpaceSize.cs: 53706ad165562e3269e20acf9c942aec -> 
+  custom:scripting/monoscript/fileName/PCache.cs: 951a6c66251e82f7f642f147440b894b -> 
+  custom:scripting/monoscript/fileName/VFXExpressionMapper.cs: 111faa24b6ff0f000abb2e3fdac32e1b -> 
+  custom:scripting/monoscript/fileName/TorusVolumeDeprecated.cs: a9491d156f4bc8b8fcdb36ec594c3e6d -> 
+  custom:scripting/monoscript/fileName/LogicalNot.cs: 4533b8489fc1c1fdf95ac0253032b7a9 -> 
+  custom:scripting/monoscript/fileName/VFXGizmoUtility.cs: cb9212679b37d0a093bcc826939486b3 -> 
+  custom:scripting/monoscript/fileName/PositionTorusDeprecated.cs: 3f21ca5c08d6226c99b50d63672b7267 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionCombine.cs: 37995339a2a1eccd3615a0c8cb9efc74 -> 
+  custom:scripting/monoscript/fileName/SampleSDF.cs: b3f0047ebf4dcd89db70628b08aae654 -> 
+  custom:scripting/monoscript/fileName/VFXSpawnerVariableRate.cs: 859a1574791e644a5aef8de122fc1b13 -> 
+  custom:scripting/monoscript/fileName/Saturate.cs: c1abd2ed3eb51ee5af2b43c7b4224830 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionTransform.cs: ecf9b78f3d30a14ad9ec2b8eb6ee289e -> 
+  custom:scripting/monoscript/fileName/CrossProduct.cs: bb159827466a7e50fcef4b656335696a -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/VFXExpressionSampleCurve.cs: bd5de6df7f3c190dbab5266eb23a92bf -> 
+  custom:scripting/monoscript/fileName/VFXExpressionSampleTexture3D.cs: 053fffde6d3b1b5b00816886c5809778 -> 
+  custom:scripting/monoscript/fileName/VFXInputTouchBinder.cs: d0c2d04d685343afcdbdeb39e3c3fbc7 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ForceHelper.cs: 47c2c55bfdf82cc495664c539fead646 -> 
+  custom:scripting/monoscript/fileName/VFXSlotTexture3D.cs: f62b47813dd200fcf1bd9efa7674fcfb -> 
+  custom:scripting/monoscript/fileName/VFXStringField.cs: a2ca3978dba22613df19b34e2a6435b7 -> 
+  custom:scripting/monoscript/fileName/VFXUIDropdownBinder.cs: 4943ad40900833d6fa9810e7cd70503b -> 
+  custom:scripting/monoscript/fileName/FlipbookPlay.cs: 8427fe0b86fa334cf69bb83cb7b0aad8 -> 
+  custom:scripting/monoscript/fileName/SampleTexture3D.cs: d823bfe3cad13e5a2bed97609db6ec95 -> 
+  custom:scripting/monoscript/fileName/VFXSpawnerBurstOld.cs: dcc5097e021a66ea5fb755cd46d3d159 -> 
+  custom:scripting/monoscript/fileName/ColorOverLife.cs: d506b2600be99c28687a57c0c24d46ab -> 
+  custom:scripting/monoscript/fileName/LookAt.cs: 8b343ffaa74fe73993fc28cc50142c17 -> 
+  custom:scripting/monoscript/fileName/VFXViewControllerUndo.cs: db2400446758faa5ac9db899b7b08341 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/PeriodicTotalTime.cs: 2c8b74c9c8da491be53695f5af9c7bda -> 
+  custom:scripting/monoscript/fileName/VFXViewControllerExpressions.cs: 74dbb301c1257b248d7356279ad75908 -> 
+  custom:scripting/monoscript/fileName/VFXStickyNote.cs: e46fe888c48221ee1cb87af3be3e8adc -> 
+  custom:scripting/monoscript/fileName/VFXExpressionAbstractValues.cs: 1ffc0e5e4a02995d86e64a3e8fe963b5 -> 
+  custom:scripting/monoscript/fileName/PositionCircleDeprecated.cs: fec4257a08676e6b35329ef756f6d7aa -> 
+  custom:scripting/monoscript/fileName/MeshToSDFBaker.cs: 99ed2c76c3a03aebddfc87068546a39a -> 
+  custom:scripting/monoscript/fileName/VFXPlanarPrimitiveHelper.cs: 2d0235facb7a52bb58e7469e0639f3c7 -> 
+  custom:scripting/monoscript/fileName/VFXBoundsRecorder.cs: a894839ff23651696e95c10f8982f550 -> 
+  custom:scripting/monoscript/fileName/LoadTexture2D.cs: 76001d2b4a500df96728d00d3b257b1b -> 
+  custom:scripting/monoscript/fileName/HSVtoRGB.cs: 71e8ddb1abae99ba0d61c1cebf48cbbd -> 
+  custom:scripting/monoscript/fileName/VFXSphereBinder.cs: 6cf41c2d307a18f2c5290ece2735f6e7 -> 
+  custom:scripting/monoscript/fileName/VFXHelpURLAttribute.cs: 4fd3464e35b8204bf99787d46a8817ad -> 
+  custom:scripting/monoscript/fileName/ColorPropertyRM.cs: 5bd0b67e534bd53f50b1e6544161aa5e -> 
+  custom:scripting/monoscript/fileName/GizmoController.cs: bc49d86b49c37d834082b6ecc75a8b31 -> 
+  custom:scripting/monoscript/fileName/DotGraphOutput.cs: e771170f69c7d04085c34a026e3bd9c7 -> 
+  custom:scripting/monoscript/fileName/Smoothstep.cs: 3904cf7c5b5128b9db7ec5a1944d22f0 -> 
+  custom:scripting/monoscript/fileName/VFXSlotGraphicsBuffer.cs: a1a94c284dbc5ecf9df4cffba972ca69 -> 
+  custom:scripting/monoscript/fileName/RemapToNegOnePosOne.cs: ad79f8d96d0f023aea7d50a2f185fe57 -> 
+  custom:scripting/monoscript/fileName/VFXInputButtonBinder.cs: 5cd786007b4a0eb0890fa083b88a2eee -> 
+  custom:scripting/monoscript/fileName/MeshIndexCount.cs: d7f6a3a2f347c3a7682021becd535f38 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/PolarToRectangular.cs: bfc50f871e2bb358a5e2a8e6a60f6369 -> 
+  custom:scripting/monoscript/fileName/TileWarp.cs: 71ab940c5149fef0471482b922da3e69 -> 
+  custom:scripting/monoscript/fileName/VFXDataEdge.cs: 132dc1d413e4861d57544a4bf422e5e6 -> 
+  custom:scripting/monoscript/fileName/Sine.cs: 7d34429b47e83d743c216afc011397a1 -> 
+  custom:scripting/monoscript/fileName/VFXPropertyBinderEditor.cs: 88c4e6e486bc3ad369742d5878502e65 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/VFXGraphValidation.cs: 2fd622bb63abe7ea850aa1a6f1eaf889 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionFlow.cs: 62f1138c18dece67bc415eeee38eaf3f -> 
+  custom:scripting/monoscript/fileName/VFXSortingUtility.cs: be4068d9283e863c21c881252d646777 -> 
+  custom:scripting/monoscript/fileName/VFXBoundsRecorderField.cs: e40232123c7e964754b2cbf6a6658a1b -> 
+  custom:scripting/monoscript/fileName/VFXParameterNodeController.cs: 28f6ce9f568de0d79fbce09f71d40607 -> 
+  custom:scripting/monoscript/fileName/VFXBlock.cs: 6b8dde24d92c2f181a9c9b106684c4ff -> 
+  custom:scripting/monoscript/fileName/VFXGraphUndoCursor.cs: 073ba7e56e413690696579be9831f852 -> 
+  custom:scripting/monoscript/fileName/Subtract.cs: 474177fbfa9d1d9081ba68cc9747e5f0 -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/VFXEditableDataAnchor.cs: 09f4b564d67e0539ea94e93b705d1e82 -> 
+  custom:scripting/monoscript/fileName/Switch.cs: 7f382189bc0a3a9e0169819f46c022b8 -> 
+  custom:scripting/monoscript/fileName/VFXData.cs: 83a39ff9eb1c7d33f3b13024b1a447a4 -> 
+  custom:scripting/monoscript/fileName/Acos.cs: f674c4b83388f4c2460424c76b7e2992 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionAbstractFloatOperation.cs: 84dc788363f681debec6c6bbb67141f0 -> 
+  custom:scripting/monoscript/fileName/SetCustomAttribute.cs: 972967ee92d43cdf9d0b325a364ce842 -> 
+  custom:scripting/monoscript/fileName/TorusVolume.cs: 937949fc45f1f2b8fa957b8f54eb99df -> 
+  custom:scripting/monoscript/fileName/VFXURPBinder.cs: e0066241ccba0ac6fbcde398d9fe4daf -> 
+  custom:scripting/monoscript/fileName/VFXVector3Field.cs: 9b11daaa4f2c3b6d4f53cc6a8b89ff6f -> 
+  custom:scripting/monoscript/fileName/VFXDataAnchor.cs: 43e0e7b7a56d453c3cda57767aabd443 -> 
+  custom:scripting/monoscript/fileName/VFXBlackboardCategory.cs: 4bfa725f2c9e81735e9bce442b04d0d5 -> 
+  custom:scripting/monoscript/fileName/PositionBase.cs: e6d0f989801449baf12ef7f625de8bb8 -> 
+  custom:scripting/monoscript/fileName/Round.cs: 1208d8244abda050ad00874c88dd2058 -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/PositionDepth.cs: f1aacd5e35649bd7dccb17a7284b550e -> 
+  custom:scripting/monoscript/fileName/VFXComponentBoard.cs: 6484305dd63481ba5bd17a3978019a26 -> 
+  custom:scripting/monoscript/fileName/Vector2PropertyRM.cs: 2dda998c9568a23ccb3668da421257f2 -> 
+  custom:scripting/monoscript/fileName/CollisionSDF.cs: ff5a807e9aac8b3555d8e6638a06b8b3 -> 
+  custom:scripting/monoscript/fileName/VFXMatrix4x4Field.cs: 4b855f54373fee655891a722d94ebb3e -> 
+  custom:scripting/monoscript/fileName/VFXAttributeParameter.cs: d89948c551f53c7bab623371e7a0aa97 -> 
+  custom:scripting/monoscript/fileName/VFXSystemNames.cs: 7131794df97396f9b555eae45ac4db32 -> 
+  custom:scripting/monoscript/fileName/MeshTriangleCount.cs: ebeb11a616c498f1ac8ebbb0194d24bc -> 
+  custom:scripting/monoscript/fileName/Vector3PropertyRM.cs: b05a4ca39d036de283ad2e77e4e13ed9 -> 
+  custom:scripting/monoscript/fileName/PointCache.cs: 5b622337e419259c9bc8925a770140ab -> 
+  custom:scripting/monoscript/fileName/CreateVFXShaderGraph.cs: 6b678d03a93aed08e5ccf1097ed1ab90 -> 
+  custom:scripting/monoscript/fileName/VFXLineGizmos.cs: 6c1910b078cd1e5abd5280973197becf -> 
+  custom:scripting/monoscript/fileName/VFXStringFieldPushButton.cs: 5149188a7bc989e3282a05a6debb92d9 -> 
+  custom:scripting/monoscript/fileName/VFXSlot.cs: 615b405ade9bfc83fbd13fee8ecc6f45 -> 
+  custom:scripting/monoscript/fileName/BoolPropertyRM.cs: 3bfc5cfc5f7db9531112384a44849862 -> 
+  custom:scripting/monoscript/fileName/VFXTriggerEventBinder.cs: 7fdbf8701d9893ffdc416c44877ab5a6 -> 
+  custom:scripting/monoscript/fileName/VFXURPSubOutput.cs: d4c4ce21d28f1b10dda0e9825c850e95 -> 
+  custom:scripting/monoscript/fileName/VFXBlackboard.cs: 7f115fe8be17620a4595ecfbdd590e13 -> 
+  custom:scripting/monoscript/fileName/VFXVCSDropdownButton.cs: b70d401b1830ae525d9b7ac77abe7057 -> 
+  custom:scripting/monoscript/fileName/GPUEventAlways.cs: 8842f8f44d4de21f34c25f248efd9b0d -> 
+  custom:scripting/monoscript/fileName/VFXPositionBinder.cs: 9bfc9f288e6b159cfe006bf052a95454 -> 
+  custom:scripting/monoscript/fileName/VFXSpawnerCustomWrapper.cs: e6c9315e437287d1b84d18e89ba006b4 -> 
+  custom:scripting/monoscript/fileName/VFXBlockUtility.cs: 2c8dfc45fa53930469d553e867b8e338 -> 
+  custom:scripting/monoscript/fileName/VisualEffectControlClipEditor.cs: 24ea7074187b4aa2c04376b2cc0f0896 -> 
+  custom:scripting/monoscript/fileName/VFXSlotUint.cs: 5212dc58d96f0f193d9cd2eb4b1240be -> 
+  custom:scripting/monoscript/fileName/VisualEffectControlSceneOverlay.cs: 7f356df8f99d199f165d9836773391d1 -> 
+  custom:scripting/monoscript/fileName/VisualEffectControlClip.cs: 5d5cc31b605f0621b991dc7cb66f557c -> 
+  custom:scripting/monoscript/fileName/VFXSlotDirection.cs: da6a43c657895a1fc7fb5cec3a559676 -> 
+  custom:scripting/monoscript/fileName/VFXBasicInitialize.cs: 0570bb7b73f8313f78e606bf8c4c9422 -> 
+  custom:scripting/monoscript/fileName/VisualElementExtensions.cs: 30133747b516a748ea4ae64f0ac530b1 -> 0aad2728225c469038631668406aebb3
+  custom:scripting/monoscript/fileName/VFXStringFieldProvider.cs: 2e69b56b6b11f8656a8381dacf7cef99 -> 
+  custom:scripting/monoscript/fileName/SquareRoot.cs: e97a17bf4ba67f9666db8f9213022879 -> 
+  custom:scripting/monoscript/fileName/VFXUISliderBinder.cs: 91bd4c36e1e9d45563e9f00739f8950f -> 
+  custom:scripting/monoscript/fileName/StringPropertyRM.cs: 42574de86c5fb62e4223eca65be34511 -> 
+  custom:scripting/monoscript/fileName/PointCacheBakeTool.Texture.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/VFXUniformMapper.cs: d713dfcf14fdf2d8f66f82089236c6c1 -> 
+  custom:scripting/monoscript/fileName/VFXRaycastBinder.cs: 95d6b203e3ff40cdc7fa682b77422c2b -> 
+  custom:scripting/monoscript/fileName/VFXExpressionMesh.cs: 86c2a901f1b7f3d219a4786b3996c1e5 -> 
+  custom:scripting/monoscript/fileName/Sequential3D.cs: 10a938cb8d8d1435a7122c72f66f73c4 -> 
+  custom:scripting/monoscript/fileName/CurvePropertyRM.cs: c4c0460f5078d6c23a5dedfd778fbac8 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionBakeGradient.cs: daf0854abb8e6cc9572e242b8cf07ea1 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionSampleCameraBuffer.cs: 6ac7139ea6dc05c2b1ff4637c9cb0547 -> 
+  custom:scripting/monoscript/fileName/VFXGraph.cs: ca1e50bcc563e7e590419102f5d7fdbe -> 
+  custom:scripting/monoscript/fileName/VisualEffectControlTrackMixerBehaviour.cs: 7351ba0851dc9bddee1eb54436a54a9a -> 
+  custom:scripting/monoscript/fileName/VFXPlaneBinder.cs: a75b00f267cc8094d778efbc6570afa5 -> 
+  custom:scripting/monoscript/fileName/VFXPicker.cs: b3dc1981a29c423f84f0cb9140db7c62 -> 
+  custom:scripting/monoscript/fileName/VFXSlotBool.cs: b5fe5a1537166566c91642b72b0b7c88 -> 
+  custom:scripting/monoscript/fileName/Clamp.cs: 77b8ed107ff731de8ec29e09c0afc8c6 -> 
+  custom:scripting/monoscript/fileName/VFXViewPreference.cs: 0a58ae8c7341271bd30235753f3e1dcf -> 
+  custom:scripting/monoscript/fileName/VFXGlobalSort.cs: 7065c5384ed72c358766c09db8755f04 -> 
+  custom:scripting/monoscript/fileName/BackupOldPosition.cs: 3995abf66f35e305b5838e1930039ef0 -> 
+  custom:scripting/monoscript/fileName/VoroNoise2D.cs: 6a36e2ab2a27995a8b656314089aa1b4 -> 
+  custom:scripting/monoscript/fileName/VFXSlotMatrix4x4.cs: c724de9881e3162c459f5ac62d472bc7 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionSampleTexture2DArray.cs: 685b2a03d140d592103398a2d82b7893 -> 
+  custom:scripting/monoscript/fileName/VFXOutputDataAnchor.cs: 32274f5deeb70830a5b47660ee23bc3f -> 
+  custom:scripting/monoscript/fileName/VFXDynamicBuiltInParameter.cs: 496e3338755366e4bec9937f3944325a -> 
+  custom:scripting/monoscript/fileName/Remap.cs: 5fa2c8cc6a8fffa2ed408bfe2a4b5b4b -> 
+  custom:scripting/monoscript/fileName/Fractional.cs: 6b3cc75156c6cf4d915a04b033d004cf -> 
+  custom:scripting/monoscript/fileName/VFXSlotFloat.cs: 954c491fead9b4fe6f617753120ebdda -> 
+  custom:scripting/monoscript/fileName/VFXSlotAnimationCurve.cs: 2505993b440a8d8a9a758adbbc7253e5 -> 
+  custom:scripting/monoscript/fileName/VFXLineStripOutput.cs: 09b506a6564da98cee7627f0532b8f21 -> 
+  custom:scripting/monoscript/fileName/SetSpawnTime.cs: e84f0fb3eebcea4fde52141fd169bc1c -> 
+  custom:scripting/monoscript/fileName/VFXDecalOutput.cs: b2f1a118b76c6d3df5761f60e95c61ef -> 
+  custom:scripting/monoscript/fileName/VFXAbstractParticleOutput.cs: 20e0e9aa9ba63011b181598b5e3204b8 -> 
+  custom:scripting/monoscript/fileName/Cosine.cs: 1bcd48a5632d86a3213a71a8e4da704d -> 
+  custom:scripting/monoscript/fileName/VectorPropertiesRM.cs: 2eab3928e9f2f6734bfb7fd86e751702 -> 
+  custom:scripting/monoscript/fileName/VFXTarget.cs: ab40710df24440b07ce99cfde317f95e -> 
+  custom:scripting/monoscript/fileName/TransformDirection.cs: 84d545a38c429d0599d70a5b8b059791 -> 
+  custom:scripting/monoscript/fileName/BitwiseLeftShift.cs: bcb09e94a3dec71a56e7612c3b2ebaaa -> 
+  custom:scripting/monoscript/fileName/Controller.cs: 37ef4213f82f1a4295de1d1176041d30 -> 
+  custom:scripting/monoscript/fileName/SampleTextureCubeArray.cs: f402926295c4d24886e859e6a75c3b57 -> 
+  custom:scripting/monoscript/fileName/GetSpawnCount.cs: 6634eb0e159695456316f1379cd19e4a -> 
+  custom:scripting/monoscript/fileName/VFXSourceAttributeParameter.cs: 289e5fbd9a4bae8c018e0f2f4d05e4f0 -> 
+  custom:scripting/monoscript/fileName/SampleAttributeMap.cs: 525749f64a45c1a754767d3454550d07 -> 
+  custom:scripting/monoscript/fileName/VFXPreviousPositionBinder.cs: f77776e3368f4cad7b18923164bf759c -> 
+  custom:scripting/monoscript/fileName/VFXAssetEditor.cs: 67870d8e49bba70c77414a9b4d0d3ff8 -> 
+  custom:scripting/monoscript/fileName/LoadTexture3D.cs: b9aba08ffaf8a321bf855a1eefb86e97 -> 
+  custom:scripting/monoscript/fileName/VFXInlineOperator.cs: 49c14643625872105e94fda52354e181 -> 
+  custom:scripting/monoscript/fileName/SubpixelAA.cs: cb3f49fa2c1b6f5dcfba049caa9f82ad -> 
+  custom:scripting/monoscript/fileName/Ceiling.cs: 5f61937afaab72964e9c7d3930f101f8 -> 
+  custom:scripting/monoscript/fileName/BitwiseRightShift.cs: 0046bbadf9c4e149db3a3cedd66a5c72 -> 
+  custom:scripting/monoscript/fileName/SphereVolumeDeprecated.cs: 46f4f8f43360e01a9076cd11de1b08fd -> 
+  custom:scripting/monoscript/fileName/VFXAttachPanel.cs: dd7a49c8976880f733312d1e49ff84c7 -> 
+  custom:scripting/monoscript/fileName/VFXManagerEditor.cs: 129b630f95623d49c86f8b32c9488dfd -> 
+  custom:scripting/monoscript/fileName/VFXGraphCompiledData.cs: 4fcface34e4091cdddad5243f9b5cf4f -> 
+  custom:scripting/monoscript/fileName/VFXSlotEncapsulated.cs: 07d86bf0005b9b8cc20b0ea66f73e0b7 -> 
+  custom:scripting/monoscript/fileName/PerlinNoise.cs: 6695bf677c67edbdb8a15370b8e499f8 -> 
+  custom:scripting/monoscript/fileName/PositionLine.cs: 2b111d0f38cd940f5916852a46e44ded -> 
+  custom:scripting/monoscript/fileName/VFXPropertyBinder.cs: 452ad47b685c7a3995784beff4261bc4 -> 
+  custom:scripting/monoscript/fileName/VFXAbstractParticleURPLitOutput.cs: 3c6f6a51479a4d2f1bd1d719274019f8 -> 
+  custom:scripting/monoscript/fileName/VFXTypesDeprecated.cs: 9936788ab4f18775c6f65c404c59d057 -> 
+  custom:scripting/monoscript/fileName/VFXInputMouseBinder.cs: 0bcdc9305b04b5c7e670076a60f2a96a -> 
+  custom:scripting/monoscript/fileName/VFXParameterUI.cs: 5d80bf48a278c1e9cbe8cc70ead42e15 -> 
+  custom:scripting/monoscript/fileName/VFXGroupNode.cs: ba633b0cedd110d2eb75f2274245fcdb -> 
+  custom:scripting/monoscript/fileName/VFXAbstractSpawner.cs: 6dfabc0133a4e6566e1d9a2fccb9b9fa -> 
+  custom:scripting/monoscript/fileName/VFXSlotContainerEditor.cs: 90062184ad6a3f04878e319893febf9a -> 
+  custom:scripting/monoscript/fileName/VFXContextDataAnchorController.cs: 7fcd28567e9137f92a24e05e887e8e74 -> 
+  custom:scripting/monoscript/fileName/MainCamera.cs: 141881eb806844fa77ecad68e812b237 -> 
+  custom:scripting/monoscript/fileName/VFXDataOutputEvent.cs: 2a3fdc433393e42959b5156cbc1d4b93 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionNoise.cs: 60f47b096fade5660cccbe6020ad87e7 -> 
+  custom:scripting/monoscript/fileName/CollisionPlane.cs: c6951151831a4a393a8ea48a3923aedc -> 
+  custom:scripting/monoscript/fileName/ObjectPropertyRM.cs: 5d2b62fac34dfc72e4bb381e6e88a7d1 -> 
+  custom:scripting/monoscript/fileName/IControlledElement.cs: f2fe4d92d2ac8176522108a84488e6ca -> 
+  custom:scripting/monoscript/fileName/CollisionDepth.cs: f826c67cecf4447ff1d7883383f0e716 -> 
+  custom:scripting/monoscript/fileName/VFXCodeGenerator.cs: 8577b8d3632cef030e225c899ed8a725 -> 
+  custom:scripting/monoscript/fileName/SamplePointCache.cs: 8f0dc1d965b8038fe276332b17cef611 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/SequentialCircle.cs: 1acb14dd75a837b41225e1e3c11495d5 -> 
+  custom:scripting/monoscript/fileName/VFXNodeProvider.cs: 1431f59103ea35161f25bfb1ce315278 -> 
+  custom:scripting/monoscript/fileName/SimplePropertiesRM.cs: 2dbadb01da2f54fe7790819c0437bf92 -> 
+  custom:scripting/monoscript/fileName/VFXMultiplePositionBinder.cs: 2d8c8246e4d40b948de3988d83df453a -> 
+  custom:scripting/monoscript/fileName/VFXSlotCameraBuffer.cs: 381ab97d26a51c31be67cac9106e9d98 -> 
+  custom:scripting/monoscript/fileName/BufferCount.cs: 71f73e5d3f7b04f00c9165b0f95ce212 -> 
+  custom:scripting/monoscript/fileName/VFXSystemController.cs: ac68674c4964bbc576c1130fd7a1d6dc -> 
+  custom:scripting/monoscript/fileName/VFXSlotVector.cs: 5d1f117572bbb5a05fb4b09040929a03 -> 
+  custom:scripting/monoscript/fileName/AttributeFromCurve.cs: fd3beac2d37981861b71db6636ea1929 -> 
+  custom:scripting/monoscript/fileName/VisualEffectControlTrack.cs: 77cafea985c0adbb4571ea189feb49a6 -> 
+  custom:scripting/monoscript/fileName/LoadCameraBuffer.cs: d25cde1284c4dd3c6b2586b8d453523a -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/VFXURPLitMeshOutput.cs: 814ba0bc642ea90ffde0b8beb542f0ac -> 
+  custom:scripting/monoscript/fileName/VFXAttributeExpression.cs: b03efe75467dccf426713cde951e6b63 -> 
+  custom:scripting/monoscript/fileName/VFXTransformBinder.cs: 53b4a6700c5954ffd194296e2b22916f -> 
+  custom:scripting/monoscript/fileName/ConformToSDF.cs: 7da25d0595b60faa8728f7d75f250976 -> 
+  custom:scripting/monoscript/fileName/DownClickable.cs: 9e0125dae6128e28d561d8200db65127 -> 
+  custom:scripting/monoscript/fileName/VFXBasicGPUEvent.cs: 63445f3ed1590cd8501b00bb23345e82 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionSampleSDF.cs: 1a9aa869456c47e9bc93b96f1061ac23 -> 
+  custom:scripting/monoscript/fileName/PositionConeDeprecated.cs: c301ed62898ca54c4b76026035197a96 -> 
+  custom:scripting/monoscript/fileName/VFXBlackboardRow.cs: e9404351eb01d8d050424a25156ecc7a -> 
+  custom:scripting/monoscript/fileName/BitwiseXor.cs: 401437f7646493ee579eed03f7f8e273 -> 
+  custom:scripting/monoscript/fileName/SampleCurve.cs: 7e23d4bfd13c069495573690ece21921 -> 
+  custom:scripting/monoscript/fileName/VFXSubgraphContext.cs: 29cbe6eb518a0defac49cc7d6cc0ff2b -> 
+  custom:scripting/monoscript/fileName/VFXStaticMeshOutput.cs: ac90c0787860d77b1bfea5371d514c13 -> 
+  custom:scripting/monoscript/fileName/VectorFieldForce.cs: 48cf9ca0db6b9e1088717450e9015a69 -> 
+  custom:scripting/monoscript/fileName/VFXSlotInt.cs: 46872d44cf98e5010b2d37d23395f0ca -> 
+  custom:scripting/monoscript/fileName/VFXOutputUpdate.cs: f71941145ec44091a84508e8e21aec73 -> 
+  custom:scripting/monoscript/fileName/VFXOperatorUI.cs: 72edfb4e62a512042fbe3bc24dd3ea54 -> 
+  custom:scripting/monoscript/fileName/VFXVector4Field.cs: 96a18891ea05f599b125e8df3a4abad6 -> 
+  custom:scripting/monoscript/fileName/VFXBasicEvent.cs: 75e2a4be346aa748025069bbbdf42a84 -> 
+  custom:scripting/monoscript/fileName/AgeOverLifetime.cs: 2136c05d0bcddfeaefbe56d8f51f81af -> 
+  custom:scripting/monoscript/fileName/VFXTypes.cs: 53dfe621fdae266dfdac435deec41570 -> 
+  custom:scripting/monoscript/fileName/VFXSettingAttribute.cs: 1b25db82a623348ee34ce2e5ed1e164d -> 
+  custom:scripting/monoscript/fileName/SkinnedMeshRendererTransform.cs: f9f336075159299894080cb6b954ba04 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionSpawnerState.cs: 8a6e2d7565ef851ae4c34788b6bc1253 -> 
+  custom:scripting/monoscript/fileName/VFXRuntimeResources.cs: 2c06c490dadec171e23adce492f909d8 -> 
+  custom:scripting/monoscript/fileName/ConstructMatrix.cs: ed299a952d4aa331ba9d8bbffd2daaba -> 
+  custom:scripting/monoscript/fileName/SawtoothWave.cs: 1b1c806076e6ecc18416f8acd323495d -> 
+  custom:scripting/monoscript/fileName/CollisionCone.cs: 9f40bda608310b02ff30da2a16a13479 -> 
+  custom:scripting/monoscript/fileName/VFXViewController.cs: 32fde56330ad146197d5df92da307b07 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionAbstract.cs: 8f44697d7297c84f45fa51d513c32479 -> 
+  custom:scripting/monoscript/fileName/ColorLuma.cs: d2c8d6e6161cecd6f99fac13bbab7e19 -> 
+  custom:scripting/monoscript/fileName/ChangeSpace.cs: 1002b7809f3b3cb59ce9fb83967067fb -> 
+  custom:scripting/monoscript/fileName/KillSphereDeprecated.cs: d43d6bcf7158edb7e098bb4aef6f7c33 -> 
+  custom:scripting/monoscript/fileName/SdfBakerSettings.cs: 55d10b32524a29b8edd53a2856bd53a1 -> 
+  custom:scripting/monoscript/fileName/ExposedPropertyDrawer.cs: ee77d7746b9332757c594ba0139e7b22 -> 
+  custom:scripting/monoscript/fileName/VFXSlotTransform.cs: e2008d7594a14f8ef9553298182da5d9 -> 
+  custom:scripting/monoscript/fileName/LoadTexture2DArray.cs: f19a6da033c6f932a1b22af64040cc03 -> 
+  custom:scripting/monoscript/fileName/VFXTransformGizmos.cs: ef7fc9e216d05c13521d9ae6b0fa0905 -> 
+  custom:scripting/monoscript/fileName/VFXSlotTextureCubeArray.cs: 174b792f88f1785985c7d6dee83be9cc -> 
+  custom:scripting/monoscript/fileName/Age.cs: 328333219c3ba6b0d6c5175e4a3a4c3d -> 
+  custom:scripting/monoscript/fileName/VFXParameterInfo.cs: fb098fca736820051a25207354fa412d -> 
+  custom:scripting/monoscript/fileName/VFXAudioSpectrumBinder.cs: d234416a9fcb770713d3c4aadb8a97cd -> 
+  custom:scripting/monoscript/fileName/VFXSlotColor.cs: 29d9c98e7a81ce38ba046471fcbbe54b -> 
+  custom:scripting/monoscript/fileName/GPUEventRate.cs: 330d88c65b054af6b290f7794af05862 -> 
+  custom:scripting/monoscript/fileName/InverseTRSMatrix.cs: 6c0108e15bbd1bc8b49518bb1016061c -> 
+  custom:scripting/monoscript/fileName/VFXProperty.cs: d1be4ab81df03da83e6bebf2aeca6b20 -> 
+  custom:scripting/monoscript/fileName/VFXMeshOutput.cs: 08b036df91b62e0090a06a42bef87504 -> 
+  custom:scripting/monoscript/fileName/Tangent.cs: 41bc2cb6f9a1327e50fe4cbb06704ec3 -> 
+  custom:scripting/monoscript/fileName/VFXBlockProvider.cs: 7176439012e6a8227820c2ab7f1f0b35 -> 
+  custom:scripting/monoscript/fileName/GPUEventOnDie.cs: 684aff5c6e4de7dcf13b7657c62d671e -> 
+  custom:scripting/monoscript/fileName/VFXBasicSpawner.cs: 3d42fc32ac41f3e1c3eff1085055b7c2 -> 
+  custom:scripting/monoscript/fileName/VFXBinderBase.cs: 1769ebdf25cb8c349b5230121ce79dbd -> 
+  custom:scripting/monoscript/fileName/VFXPropertyBindingAttribute.cs: d3dec8be2936a5bb27534f35f733bbe2 -> 
+  custom:scripting/monoscript/fileName/NumericPropertiesRM.cs: b326312ae0c9ce7e9013b5e38fc08508 -> 
+  custom:scripting/monoscript/fileName/SpaceablePropertiesRM.cs: 982fa95781281efe0dcdd6673f9b867f -> 
+  custom:scripting/monoscript/fileName/VisualEffectActivationBehaviour.cs: b4054525b02460ef90a64e02abd953fc -> 
+  custom:scripting/monoscript/fileName/SpawnOverDistance.cs: d42520ec83af28db4ce57e450a3b0268 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionContext.cs: b59ca9123152145d5e6e7f5892bde5c4 -> 
+  custom:scripting/monoscript/fileName/VFXSRPBinder.cs: f26c75d50328cca4f66c66752266cfb1 -> 
+  custom:scripting/monoscript/fileName/Turbulence.cs: 927fdb994086025971bccd99a313cd32 -> 
+  custom:scripting/monoscript/fileName/OrientedBoxVolume.cs: 4e1c89a16e9a66d21a943d88bad3fddf -> 
+  custom:scripting/monoscript/fileName/VFXContext.cs: 8312312b964fad262196dc5a33809b6a -> 
+  custom:scripting/monoscript/fileName/VFXViewWindow.cs: d5624cc15afc3adbe63023009fda1a10 -> 
+  custom:scripting/monoscript/fileName/Log.cs: 5aa2393e0a24a42aa5b19bc88a4b8254 -> 
+  custom:scripting/monoscript/fileName/VFXUIToggleBinder.cs: b8f3fd1ae01edaaabdde2d914e7d7eb3 -> 
+  custom:scripting/monoscript/fileName/AdvancedVisualEffectEditor.cs: 6779806c5d9982d2b500fd670d2b8f5a -> 
+  custom:scripting/monoscript/fileName/VFXSGInputs.cs: 3512c944670990fb1bbf1fb4e0ba8c69 -> 
+  custom:scripting/monoscript/fileName/VFXSRPSubOutput.cs: 5754d95d4c084fbad11194c0a14f61ff -> 
+  custom:scripting/monoscript/fileName/VFXBoundsSelector.cs: a050b413e2d7ab3c8be5f147916a0416 -> 
+  custom:scripting/monoscript/fileName/VelocitySpeed.cs: 8edf072a896a1b904f6b0270d9ac28b8 -> 
+  custom:scripting/monoscript/fileName/VFXBasicUpdate.cs: 85a36ab540557f28eb70648fb352bb2b -> 
+  custom:scripting/monoscript/fileName/VFXAbstractRenderedOutput.cs: d47a0b5088bca65fd3cdb67f75934129 -> 
+  custom:scripting/monoscript/fileName/VFXContextUI.cs: b6882b9e7e7adddca78329c5b08485cd -> 
+  custom:scripting/monoscript/fileName/VFXTypeUtility.cs: dedcfed79d5c958cf610deaedf68e056 -> 
+  custom:scripting/monoscript/fileName/SampleGradient.cs: 6a9e3d45b790fdd15dd5b99ddd621f9d -> 
+  custom:scripting/monoscript/fileName/VFXEdgeConnector.cs: 5c4eebf7a86e44a3dd5ef1baad954240 -> 
+  custom:scripting/monoscript/fileName/SanitizeHelper.cs: 0268a70cdebab78bae32025d2a2f62c0 -> 
+  custom:scripting/monoscript/fileName/TextureDimensions.cs: 05009f893e16bbab22a72647050609d5 -> 
+  custom:scripting/monoscript/fileName/PositionSDF.cs: ac5837073d09a078e9f8fb08e97979e6 -> 
+  custom:scripting/monoscript/fileName/VFXSystemBorder.cs: cf5b144a59e210be3546b0ea6580052b -> 
+  custom:scripting/monoscript/fileName/RemapToZeroOne.cs: ad34593b8091bfa131492fc39e3a7aa8 -> 
+  custom:scripting/monoscript/fileName/LogicalAnd.cs: 3966ee64e462fc026c16285482d9a5de -> 
+  custom:scripting/monoscript/fileName/VFXExpressionSampleTextureCube.cs: aeaef0c3645b0a1e6f91e6149d5ba873 -> 
+  custom:scripting/monoscript/fileName/CollisionAABox.cs: a49aa4174a0d0f7fa1336d27116644cb -> 
+  custom:scripting/monoscript/fileName/RectangularToSpherical.cs: 64979985bca3329fdce3d74eba4d2eb0 -> 
+  custom:scripting/monoscript/fileName/CellularNoise.cs: b30f41d857814938ec9d221d06176c7c -> 
+  custom:scripting/monoscript/fileName/Gravity.cs: ce77196eeac095f6867d91a87d921ae2 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SphericalToRectangular.cs: bf350f4e984d0ffb104e0936bb387912 -> 
+  custom:scripting/monoscript/fileName/SampleMesh.cs: 3fafb35da70b1b5059e192d85dc27f18 -> 
+  custom:scripting/monoscript/fileName/GetCustomAttribute.cs: a3ff58347693284ec6e3c068072e502f -> 
+  custom:scripting/monoscript/fileName/VFXSpawnerSetAttribute.cs: 63586602b241b2a06c544332f4c3e565 -> 
+  custom:scripting/monoscript/fileName/ListPropertiesRM.cs: 849ed7f5b11c9db237ef61b01c5a5104 -> 
+  custom:scripting/monoscript/fileName/Drag.cs: 0884fe16d2c50bfc7ea66009c85d9f82 -> 
+  custom:scripting/monoscript/fileName/VFXTypeExtension.cs: 434a74d7f3d5b880a83ee7b973102e0f -> 
+  custom:scripting/monoscript/fileName/VFXCopyPasteCommon.cs: be2ab54d835e48038be81119b3ce44ce -> 
+  custom:scripting/monoscript/fileName/DotGraph.cs: ad640ba2310d6e5d8f8272ea43f9812b -> 
+  custom:scripting/monoscript/fileName/VFXModel.cs: e783e27224664d1ee0fb5f7b0e017344 -> 
+  custom:scripting/monoscript/fileName/VFXFlipBookField.cs: c4a1ec237a1b578c66c0682f527ec6a4 -> 
+  custom:scripting/monoscript/fileName/Force.cs: 3dc6c7bcb9ac2f34c3cc567fac9b3017 -> 
+  custom:scripting/monoscript/fileName/Step.cs: a3bc9d54c2b0b91bcf4f335d2ed43b5a -> 
+  custom:scripting/monoscript/fileName/VFXExpressionTextureValues.cs: 63d53201362046f35e46709cb0bf851c -> 
+  custom:scripting/monoscript/fileName/VFXSlotFloat3.cs: 22bead14fcb47a6654b4f6cdadd0c1d5 -> 
+  custom:scripting/monoscript/fileName/SamplesLinkPackageManagerExtension.cs: a9703d6f83b06fe5b365f2ecf4ef46cd -> 
+  custom:scripting/monoscript/fileName/VFXSlotTextureCube.cs: afac723b722cf10ac071a6b01ad63d9b -> 
+  custom:scripting/monoscript/fileName/CollisionBase.cs: e3ef3906872a501dea27e5e2a897c738 -> 
+  custom:scripting/monoscript/fileName/AABoxVolume.cs: f4337100660741021df46440696b8195 -> 
+  custom:scripting/monoscript/fileName/VelocityRandomize.cs: 961c73cf4904676b0cb4658b708b0581 -> 
+  custom:scripting/monoscript/fileName/VFXHierarchyAttributeMapBinder.cs: bf4bef8708efe640b9b73626cb73647b -> 
+  custom:scripting/monoscript/fileName/VFXSlotTexture2DArray.cs: a16b500b3f47ed4caffbc18ccee1098f -> 
+  custom:scripting/monoscript/fileName/VFXBuiltInParameter.cs: 4ced2acb788e047092c1a70f0a54c0e7 -> 
+  custom:scripting/monoscript/fileName/BitwiseComplement.cs: cd0b373fe2ff1f5acfaccdbf62e910a3 -> 
+  custom:scripting/monoscript/fileName/SphereVolume.cs: d1af46a6cddb0e38faa3c6e7f6250a0e -> 
+  custom:scripting/monoscript/fileName/ConeVolume.cs: 1105a2573981d20a49f3987033f8d009 -> 
+  custom:scripting/monoscript/fileName/VFXPropertyAttribute.cs: e52ee687a1d9b06a9e385f3946e47fb2 -> 
+  custom:scripting/monoscript/fileName/VFXDataSpawner.cs: 5e3dfb1c48936b356175d34ff39427f9 -> 
+  custom:scripting/precompiled-assembly-types:Unity.VisualEffectGraph.Runtime: 005ac5a22e3f9cfa81b9f8c8d8721976 -> 
+  custom:scripting/monoscript/fileName/VFXSlotSkinnedMeshRenderer.cs: ace669fec808ba97388d1a63d4cafc15 -> 
+  custom:scripting/monoscript/fileName/VFXTypesGizmos.cs: af7cfde0f8ff715907d3b94262c46501 -> 
+  custom:scripting/monoscript/fileName/VelocityTangent.cs: 182e9ccbe6f33404d21fbafc8a36e1c2 -> 
+  custom:scripting/monoscript/fileName/WorldToViewportPoint.cs: 2ed3342917c5bda213430a2dc67c08f3 -> 
+  custom:scripting/monoscript/fileName/VFXOperatorController.cs: 01894254adb403b00b46fa4eb552dca4 -> 
+  custom:scripting/monoscript/fileName/VFXParameterController.cs: fc0a877f69b9e3b26c69e80b62bec813 -> 
+  custom:scripting/monoscript/fileName/VFXExpressionAbstractBoolOperation.cs: a4c26047c5c0f706da8d5fc1efe8fc41 -> 
+  custom:scripting/monoscript/fileName/VFXSlotGradient.cs: 13273551f07059d4974492ff01c93e26 -> 
+  custom:scripting/monoscript/fileName/VisualEffectActivationClip.cs: 71bbec6f5d3b5ece5671155412f4efca -> 
+  custom:scripting/monoscript/fileName/ExposedProperty.cs: 5cf7943d138595528d8daa34955defcd -> 
+  custom:scripting/monoscript/fileName/PositionSequential.cs: a57083bd83a4888b72e6e331fab7d0ab -> 
+  custom:scripting/monoscript/fileName/VFXColorField.cs: d09a590f3b0c68d681fc1feaf23bc4b4 -> 
+  custom:scripting/monoscript/fileName/CollisionSphereDeprecated.cs: 713ba5b3681788ee3ee74c958e38d78b -> 
+  custom:scripting/monoscript/fileName/LogicalNor.cs: 7b5c31ecac27af47c97c390c245d91f6 -> 
+  custom:scripting/monoscript/fileName/VFXEnabledBinder.cs: 18a6ccfff3ed9033fa82fb7d426394bc -> 
+  custom:scripting/monoscript/fileName/AttributeFromMap.cs: 11c46191936a41f05d8966fd45592bef -> 
+  custom:scripting/monoscript/fileName/VFXExpressionSampleTexture2D.cs: 6ef887a5d3464ad50805dc869fe68727 -> 
+  custom:scripting/monoscript/fileName/Reciprocal.cs: f5513470b90e4eaa23dba3b2a76e4236 -> 
+  custom:scripting/monoscript/fileName/VFXEnumField.cs: add03efdc263b032a4754f923d598223 -> 
+  custom:scripting/monoscript/fileName/VFXEdgeDragInfo.cs: 171e3d91b10ee9a84c7fcca5a7bac504 -> 
+  custom:scripting/monoscript/fileName/Lerp.cs: 5d09afd393ee7ecf2cdff8533dbe435e -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/VFXContextEditor.cs: 08ddae383e41f28460b212c479399b86 -> 
+  custom:scripting/monoscript/fileName/EulerIntegration.cs: 12d5a662c619d14c464eb1fbad797d8b -> 
+  custom:scripting/monoscript/fileName/SampleTexture2DArray.cs: 5fbf41ce61dc0004f6da20e4c5f795ac -> 
+  custom:scripting/monoscript/fileName/CollisionSphere.cs: 3fc172be303bf29fe98fcd54207190aa -> 
+  custom:scripting/monoscript/fileName/VFXLineOutput.cs: 4e079298fd087b553b147a8d29bd62fe -> 
+  custom:scripting/monoscript/fileName/IncrementStripIndexOnStart.cs: d40f813d4a5c2629a792dfef9d4e66e3 -> 
+  custom:scripting/monoscript/fileName/LogicalNand.cs: 8d38211ab66087cc8527218415e171e5 -> 
+  custom:scripting/monoscript/fileName/VFXFlowEdge.cs: 13232d9f59ba2def735a4118f0945011 -> 
+  custom:scripting/monoscript/fileName/VFXURPLitQuadStripOutput.cs: 27fa346bf9bb55b7e433d16522380031 -> 
+  custom:scripting/monoscript/fileName/VisualEffectControlPlayableBehaviour.cs: 17bff1012472bf31bd13bfd792c51ff1 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 539938.214959 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonEnabled.png
+  artifactKey: Guid(0e5ba0f04df278944a8f5a62f64f5aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonEnabled.png using Guid(0e5ba0f04df278944a8f5a62f64f5aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7ea8665d47adb2685be0d63b475d223d') in 0.128016 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/Lighting/Icons/LightUnitIcons/d_VeryBrightSun.png
+  artifactKey: Guid(083778a134a402a4f82b55a98ac21530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/Lighting/Icons/LightUnitIcons/d_VeryBrightSun.png using Guid(083778a134a402a4f82b55a98ac21530) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '87b6813d36b696b69779485db3d20db5') in 0.027259 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/Lighting/Icons/LightUnitIcons/ExteriorLight@2x.png
+  artifactKey: Guid(a3fe770bc25a98540958d57e10f2a5fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/Lighting/Icons/LightUnitIcons/ExteriorLight@2x.png using Guid(a3fe770bc25a98540958d57e10f2a5fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4bd950fda3d4b925ee9715636264e5ec') in 0.017948 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Packages/com.unity.visualeffectgraph/Editor/UIResources/VFX/EditStolen.png
+  artifactKey: Guid(3aadaa8d8c0ae984c9dd23e939a8b7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Editor/UIResources/VFX/EditStolen.png using Guid(3aadaa8d8c0ae984c9dd23e939a8b7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5ee4f65c2e6947518a6f6371336e5834') in 0.014578 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/Lighting/Icons/LightUnitIcons/DecorativeLight@2x.png
+  artifactKey: Guid(ac6bd7230f54da84b8ad3a0e2b14b3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/Lighting/Icons/LightUnitIcons/DecorativeLight@2x.png using Guid(ac6bd7230f54da84b8ad3a0e2b14b3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '972c93783bfb5bccf3db1fcbad79600e') in 0.020389 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/PostProcessing/LensFlareResource/Flare128.png
+  artifactKey: Guid(d7b90718ad2a7af4aab8546a0897d5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/PostProcessing/LensFlareResource/Flare128.png using Guid(d7b90718ad2a7af4aab8546a0897d5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd689af55992ab0895ca92cd0ead9b407') in 0.019937 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/LookDev/Icons/Duplicate.png
+  artifactKey: Guid(352dd7fc77ee28c479bf6504efe94f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/LookDev/Icons/Duplicate.png using Guid(352dd7fc77ee28c479bf6504efe94f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1ffd90c46908dae36169cfd3b941b7fa') in 0.085598 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Packages/com.unity.visualscripting/Editor/VisualScripting.Core/IconMap/FlowGraph@32x.png
+  artifactKey: Guid(0ccb256674ae837499e788d1cca73948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualscripting/Editor/VisualScripting.Core/IconMap/FlowGraph@32x.png using Guid(0ccb256674ae837499e788d1cca73948) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '118be55300730a2632dfea41ce500869') in 0.011252 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/LookDev/Icons/Environment.png
+  artifactKey: Guid(8accc003516bedf4b94c9c8a86b2b6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/LookDev/Icons/Environment.png using Guid(8accc003516bedf4b94c9c8a86b2b6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd61e1a1b1c4bf96d26be91c8224c9811') in 0.024173 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/Lighting/Icons/LightUnitIcons/ExteriorLight.png
+  artifactKey: Guid(baa2eadff75899140ac64277e3f60453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/Lighting/Icons/LightUnitIcons/ExteriorLight.png using Guid(baa2eadff75899140ac64277e3f60453) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1a9fbb79bd142f48ff145a9686c15caf') in 0.018539 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonEnabled@2x.png
+  artifactKey: Guid(0f1c9a12872a30f45bab34f536332bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonEnabled@2x.png using Guid(0f1c9a12872a30f45bab34f536332bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '34574225bf208f0fa3590befa252e816') in 0.018829 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/2D/Data/Textures/FalloffLookupTexture.png
+  artifactKey: Guid(5688ab254e4c0634f8d6c8e0792331ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/2D/Data/Textures/FalloffLookupTexture.png using Guid(5688ab254e4c0634f8d6c8e0792331ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd490494ffbcca1e1f29dd83b97a6de07') in 0.021845 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/Lighting/Icons/LightUnitIcons/DirectSunlight@2x.png
+  artifactKey: Guid(03ea000956f47584c872d8b4df47f5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/Lighting/Icons/LightUnitIcons/DirectSunlight@2x.png using Guid(03ea000956f47584c872d8b4df47f5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '195a978ad6c34a945949eee205ba64b3') in 0.018897 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Packages/com.unity.visualeffectgraph/Editor/UIResources/VFX/exposed-dot.png
+  artifactKey: Guid(53f2a7e5f246da14c87a9fd92ecb804c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Editor/UIResources/VFX/exposed-dot.png using Guid(53f2a7e5f246da14c87a9fd92ecb804c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ea0db68ee2b4e1ef693c9d93b15e5edc') in 0.021406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.506150 seconds.
+  path: Packages/com.unity.visualscripting/Graphics/FlowPorts_24x.psd
+  artifactKey: Guid(fb8aec2313da2234687b591ff0c0e622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualscripting/Graphics/FlowPorts_24x.psd using Guid(fb8aec2313da2234687b591ff0c0e622) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ad787b19b6b4241c9a985403600d499b') in 0.018356 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/Lighting/Icons/LightUnitIcons/Fluorescent@2x.png
+  artifactKey: Guid(81321ffad3c324c42806d47efb84d4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/Lighting/Icons/LightUnitIcons/Fluorescent@2x.png using Guid(81321ffad3c324c42806d47efb84d4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e50d6652ca1ed74cc49bb179515ca7f7') in 0.020219 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.961175 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Editor/2D/Resources/InspectorIcons/FreeformLight.png
+  artifactKey: Guid(68e5bb6e60bebc046b26d3c3100a523b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Editor/2D/Resources/InspectorIcons/FreeformLight.png using Guid(68e5bb6e60bebc046b26d3c3100a523b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8b28d7ef97453e664df7b5a830ece6db') in 0.024079 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Editor/2D/Resources/InspectorIcons/GlobalLight.png
+  artifactKey: Guid(8f5dd14b314efbe4684329d8a14bbe38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Editor/2D/Resources/InspectorIcons/GlobalLight.png using Guid(8f5dd14b314efbe4684329d8a14bbe38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6542eb0f8adf4bad6e4426cc0106090e') in 0.017392 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.078451 seconds.
+  path: Packages/com.unity.visualscripting/Editor/VisualScripting.Core/IconMap/GlobalMessageListener@32x.png
+  artifactKey: Guid(c588f7acb736b6940bac7b559c8f59dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualscripting/Editor/VisualScripting.Core/IconMap/GlobalMessageListener@32x.png using Guid(c588f7acb736b6940bac7b559c8f59dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fac39fd9ff2ea539b3579e2bf5379c71') in 0.017277 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconaddedlocal@2x.png
+  artifactKey: Guid(a67b58d6cddcd4345b1e001340de5a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconaddedlocal@2x.png using Guid(a67b58d6cddcd4345b1e001340de5a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f1ed1b9ecc6cc18983a6ce5eb4bc31b7') in 0.022122 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Packages/com.unity.visualscripting/Graphics/GraphGroup.psd
+  artifactKey: Guid(9aebf5eaf632b8a4898b295d2cb20c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualscripting/Graphics/GraphGroup.psd using Guid(9aebf5eaf632b8a4898b295d2cb20c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f57effcefebd7e0ca071a0ef220aee5e') in 0.023696 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.810425 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonEnabled@2x.png
+  artifactKey: Guid(6192986415256ca47a97a97507406f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonEnabled@2x.png using Guid(6192986415256ca47a97a97507406f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'da427f212e1feea72538870629581797') in 0.015193 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonEnabled.png
+  artifactKey: Guid(ac5017dfbeee42347b3b45ecc572674e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonEnabled.png using Guid(ac5017dfbeee42347b3b45ecc572674e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '11c39010b2b0d3e796ba596fe96acbc9') in 0.022334 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonDisabled.png
+  artifactKey: Guid(9c6daec86666cbb4b9e558b839a103db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonDisabled.png using Guid(9c6daec86666cbb4b9e558b839a103db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f3759129e182070487bae8ac30a84c68') in 0.019758 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.031124 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/LookDev/Icons/RenderDoc@2x.png
+  artifactKey: Guid(89608b060fc7279479398a62e245a409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/LookDev/Icons/RenderDoc@2x.png using Guid(89608b060fc7279479398a62e245a409) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e061e2a3542bb65dc273bf30626bdcf1') in 0.019057 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/SectionHeader_Dark.psd
+  artifactKey: Guid(fb5730e24283d0c489e5c7d0bee023d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/SectionHeader_Dark.psd using Guid(fb5730e24283d0c489e5c7d0bee023d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd46fa06d4f730335e951810423b40444') in 0.017488 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeReplaceOFF.png
+  artifactKey: Guid(09ae14686a02d484ab41e76fd1efba14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeReplaceOFF.png using Guid(09ae14686a02d484ab41e76fd1efba14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '524aec350342c9a2886f52ef641c58b3') in 0.015547 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineHeaderMarkerIcon.png
+  artifactKey: Guid(bf1debab21103154b99778ba6e074175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineHeaderMarkerIcon.png using Guid(bf1debab21103154b99778ba6e074175) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c1c16ad645a91792dad0242726070177') in 0.028658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/Lighting/Icons/LightUnitIcons/Shade@2x.png
+  artifactKey: Guid(1f20ae185bcb2254a844ed304955beb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/Lighting/Icons/LightUnitIcons/Shade@2x.png using Guid(1f20ae185bcb2254a844ed304955beb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bd6869d12b5e4da46168ee3ccc9554a0') in 0.028976 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeMixON.png
+  artifactKey: Guid(a82846d41464fcf4b962ebdc815963f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeMixON.png using Guid(a82846d41464fcf4b962ebdc815963f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '52e073aa6dd5b24fd0cff80a26b2d68f') in 0.027620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\AssignmentProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBC0FAA-ADFC-7A39-8269-504E1F909727}|Assembly-CSharp.csproj|e:\\unity\\assignmentproject\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBC0FAA-ADFC-7A39-8269-504E1F909727}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\GhostObjectSunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\New\\GhostObjectSunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\EndlessGroundMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\New\\EndlessGroundMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBC0FAA-ADFC-7A39-8269-504E1F909727}|Assembly-CSharp.csproj|E:\\Unity\\AssignmentProject\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBC0FAA-ADFC-7A39-8269-504E1F909727}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\GhostController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GhostController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\ObjectPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ObjectPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\SyncManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SyncManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\PlayerState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\LoopingGround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LoopingGround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBC0FAA-ADFC-7A39-8269-504E1F909727}|Assembly-CSharp.csproj|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\EndlessGroundMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBC0FAA-ADFC-7A39-8269-504E1F909727}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\EndlessGroundMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\ObstacleSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ObstacleSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\GhostPlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\New\\GhostPlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\GhostFollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\New\\GhostFollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\ObjectPooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\New\\ObjectPooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\New\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\Orb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\New\\Orb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\GhostVisualSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\New\\GhostVisualSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\Obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\New\\Obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBC0FAA-ADFC-7A39-8269-504E1F909727}|Assembly-CSharp.csproj|E:\\Unity\\AssignmentProject\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBC0FAA-ADFC-7A39-8269-504E1F909727}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ObjectPooler.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\ObjectPooler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\New\\ObjectPooler.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\ObjectPooler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\New\\ObjectPooler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:05:18.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EndlessGroundMover.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\EndlessGroundMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\New\\EndlessGroundMover.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\EndlessGroundMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\New\\EndlessGroundMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:21:24.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\New\\PlayerController.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\New\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:17:28.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Orb.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\Orb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\New\\Orb.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\Orb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\New\\Orb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:25:31.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:25:35.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GhostVisualSpawner.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\GhostVisualSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\New\\GhostVisualSpawner.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\GhostVisualSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\New\\GhostVisualSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:10:33.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GhostPlayerController.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\GhostPlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\New\\GhostPlayerController.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\GhostPlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\New\\GhostPlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:28:47.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\New\\Obstacle.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\Obstacle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\New\\Obstacle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:51:49.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GhostController.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\GhostController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GhostController.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\GhostController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GhostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:28:20.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:18:12.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectPool.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\ObjectPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:25:57.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GhostFollower.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\GhostFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\New\\GhostFollower.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\GhostFollower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\New\\GhostFollower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:10:56.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SyncManager.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\SyncManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SyncManager.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\SyncManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SyncManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:25:20.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:26:22.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerState.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\PlayerState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerState.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\PlayerState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:26:54.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoopingGround.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\LoopingGround.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoopingGround.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\LoopingGround.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoopingGround.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:33:34.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EndlessGroundMover.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\EndlessGroundMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndlessGroundMover.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\EndlessGroundMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndlessGroundMover.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:41:06.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GhostObjectSunc.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\GhostObjectSunc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\New\\GhostObjectSunc.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\New\\GhostObjectSunc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\New\\GhostObjectSunc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:04:27.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:24:52.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ObstacleSpawner.cs",
+              "DocumentMoniker": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\ObstacleSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleSpawner.cs",
+              "ToolTip": "E:\\Unity\\AssignmentProject\\Assets\\Scripts\\ObstacleSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObstacleSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:27:51.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
